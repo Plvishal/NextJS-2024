@@ -1,7 +1,7 @@
-export default function ProductDetails() {
+export default function ProductDetails({ params }) {
   return (
     <>
-      <h1>Product Details</h1>
+      <h1>Details about products: {params.productid}</h1>
     </>
   );
 }
