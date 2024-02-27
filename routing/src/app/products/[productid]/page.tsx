@@ -5,7 +5,9 @@ type Props = {
     productid: string;
   };
 };
+
 export const generateMetadata = ({ params }: Props): Metadata => {
+  
   return {
     title: `Product ${params.productid}`,
   };
