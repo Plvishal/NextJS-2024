@@ -1,0 +1,49 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Piano Basics Course",
+      "slug": "Beginner",
+      "description": "Learn the fundamentals of playing the piano with our comprehensive beginner's course. This course covers basic music theory, finger exercises, and simple songs to get you started on your musical journey",
+      "price": 99.99,
+      "instructor": "John Smith",
+      "images": ""
+    },
+    {
+      "id": 2,
+      "title": "Guitar Mastery Workshop",
+      "slug": "Intermediate",
+      "description": "Take your guitar skills to the next level with our intermediate workshop. Explore advanced chords, techniques, and improvisation with our experienced instructors",
+      "price": 129.99,
+      "instructor": "Sarah Johnson",
+      "images": ""
+    },
+    {
+      "id": 3,
+      "title": "Vocal Techniques Masterclass",
+      "slug": "Advanced",
+      "description": "Refine your singing technique and performance skills in this intensive masterclass. Learn about breath control, vocal range expansion, and stage presence from industry professionals",
+      "price": 149.99,
+      "instructor": "Michael Davis",
+      "images": ""
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Crash Course",
+      "slug": "All Levels",
+      "description": "Whether you're a beginner or an advanced musician, understanding music theory is essential. Join our crash course to learn about scales, harmony, rhythm, and more.",
+      "price": 79.99,
+      "instructor": "Emily Wilson",
+      "images": ""
+    },
+    {
+      "id": 5,
+      "title": "Drumming Essentials for Beginners",
+      "slug": "Beginner",
+      "description": "Discover the rhythm within you with our beginner's drumming course. Learn basic beats, fills, and coordination to kickstart your drumming journey.",
+      "price": 89.99,
+      "instructor": "David Brown",
+      "images": ""
+    }
+  ]
+}
