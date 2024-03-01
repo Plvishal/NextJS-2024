@@ -24,7 +24,7 @@ function HeroSection() {
 
           <div className="mt-4">
             <Link href={'/courses'}>
-              <Button> Explore Courses</Button>
+              <Button borderRadius="1.75rem"> Explore Courses</Button>
             </Link>
           </div>
         </div>
