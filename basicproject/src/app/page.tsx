@@ -1,5 +1,6 @@
 import FeaturedSection from '@/components/FeaturedSection';
 import HeroSection from '@/components/HeroSection';
+import TestimonialCard from '@/components/TestimonialCard';
 import WhyChooseUs from '@/components/WhyChooseUs';
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
         <HeroSection />
         <FeaturedSection />
         <WhyChooseUs />
+        <TestimonialCard />
       </main>
     </>
   );
